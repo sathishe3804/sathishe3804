@@ -26,7 +26,7 @@
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 **sathishe3804/sathishe3804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
