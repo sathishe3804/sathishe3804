@@ -1,7 +1,7 @@
 # 💫 About Me:
-🎓 Graduated in 2025 with a strong foundation in Computer Science.  
-💡 Solved over 100+ DSA problems using Java, building problem-solving skills.  
-💻 Passionate about full-stack development and actively learning the MERN stack.  
+🎓 Graduated in 2025 with a strong foundation in software developing.  
+💡 Solved over 500+ DSA problems using Java, building problem-solving skills.  
+💻 Passionate about full-stack development and proficient in MERN stack.  
 🚀 Enthusiastic about building real-world projects and exploring new technologies.
 
 
